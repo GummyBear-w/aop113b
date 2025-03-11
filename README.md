@@ -11,3 +11,4 @@ Nihao
 - [EX01_07_美食資訊查詢](./EX01_07_美食資訊查詢.ipynb)
 ## 02 Web Crawler
 - [EX02_01_MyChatbot](./EX02_01_MyChatbot.ipynb)
+- [EX02_02_高雄紅橘線捷運車站位置查詢](./EX02_02_高雄紅橘線捷運車站位置查詢.ipynb)
