@@ -12,3 +12,4 @@ Nihao
 ## 02 Web Crawler
 - [EX02_01_MyChatbot](./EX02_01_MyChatbot.ipynb)
 - [EX02_02_高雄紅橘線捷運車站位置查詢](./EX02_02_高雄紅橘線捷運車站位置查詢.ipynb)
+- [EX02_03_Yahoo新聞儲存Google試算表](./EX02_03_Yahoo新聞儲存Google試算表.ipynb)
