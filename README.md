@@ -14,3 +14,5 @@ Nihao
 - [EX02_02_高雄紅橘線捷運車站位置查詢](./EX02_02_高雄紅橘線捷運車站位置查詢.ipynb)
 - [EX02_03_Yahoo新聞儲存Google試算表](./EX02_03_Yahoo新聞儲存Google試算表.ipynb)
 - [EX02_04_Download_Pokemon_Images](./EX02_04_Download_Pokemon_Images.ipynb)
+- [EX02_05_PTTGossiping](./EX02_05_PTTGossiping.ipynb)
+- [EX02_06_開眼電影](./EX02_06_開眼電影.ipynb)
