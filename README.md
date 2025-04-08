@@ -16,3 +16,4 @@ Nihao
 - [EX02_04_Download_Pokemon_Images](./EX02_04_Download_Pokemon_Images.ipynb)
 - [EX02_05_PTTGossiping](./EX02_05_PTTGossiping.ipynb)
 - [EX02_06_開眼電影](./EX02_06_開眼電影.ipynb)
+- [EX02_07_KKDay](./EX02_07_KKDay.ipynb)
