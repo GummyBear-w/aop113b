@@ -30,3 +30,4 @@ Nihao
 - [EX05_01_Echo_Bot](./EX05_01_Echo_Bot.ipynb)
 - [EX05_02_Ask_Gemini](./EX05_02_Ask_Gemini.ipynb)
 - [EX05_03_Reply_Multi_type_Messages](./EX05_03_Reply_Multi_type_Messages.ipynb)
+- [EX05_04_Reply__Template_Messages](./EX05_04_Reply__Template_Messages.ipynb)
